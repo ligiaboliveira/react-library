@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publishedDate": "1960-07-11",
+      "genre": "Fiction",
+      "pages": 281,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "1984",
+      "author": "George Orwell",
+      "publishedDate": "1949-06-08",
+      "genre": "Dystopian",
+      "pages": 328,
+      "available": false
+    },
+    {
+      "id": 3,
+      "name": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publishedDate": "1813-01-28",
+      "genre": "Romance",
+      "pages": 279,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publishedDate": "1925-04-10",
+      "genre": "Tragedy",
+      "pages": 180,
+      "available": false
+    },
+    {
+      "id": 5,
+      "name": "Moby Dick",
+      "author": "Herman Melville",
+      "publishedDate": "1851-10-18",
+      "genre": "Adventure",
+      "pages": 635,
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "War and Peace",
+      "author": "Leo Tolstoy",
+      "publishedDate": "1869-01-01",
+      "genre": "Historical",
+      "pages": 1225,
+      "available": false
+    },
+    {
+      "id": 7,
+      "name": "The Odyssey",
+      "author": "Homer",
+      "publishedDate": "800-01-01",
+      "genre": "Epic",
+      "pages": 500,
+      "available": true
+    },
+    {
+      "id": 8,
+      "name": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publishedDate": "1951-07-16",
+      "genre": "Fiction",
+      "pages": 234,
+      "available": false
+    },
+    {
+      "id": 9,
+      "name": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "publishedDate": "1937-09-21",
+      "genre": "Fantasy",
+      "pages": 310,
+      "available": true
+    },
+    {
+      "id": 10,
+      "name": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "publishedDate": "1953-10-19",
+      "genre": "Dystopian",
+      "pages": 194,
+      "available": true
+    },
+    {
+      "id": 11,
+      "name": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "publishedDate": "1320-01-01",
+      "genre": "Epic",
+      "pages": 798,
+      "available": false
+    },
+    {
+      "id": 12,
+      "name": "Les Misérables",
+      "author": "Victor Hugo",
+      "publishedDate": "1862-01-01",
+      "genre": "Historical",
+      "pages": 1463,
+      "available": true
+    },
+    {
+      "id": 13,
+      "name": "Brave New World",
+      "author": "Aldous Huxley",
+      "publishedDate": "1932-01-01",
+      "genre": "Dystopian",
+      "pages": 268,
+      "available": false
+    },
+    {
+      "id": 14,
+      "name": "The Iliad",
+      "author": "Homer",
+      "publishedDate": "750-01-01",
+      "genre": "Epic",
+      "pages": 704,
+      "available": true
+    },
+    {
+      "id": 15,
+      "name": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "publishedDate": "1866-01-01",
+      "genre": "Psychological Fiction",
+      "pages": 671,
+      "available": false
+    },
+    {
+      "id": 16,
+      "name": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "publishedDate": "1880-01-01",
+      "genre": "Philosophical Fiction",
+      "pages": 824,
+      "available": true
+    },
+    {
+      "id": 17,
+      "name": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "publishedDate": "1605-01-16",
+      "genre": "Adventure",
+      "pages": 1072,
+      "available": false
+    },
+    {
+      "id": 18,
+      "name": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "publishedDate": "1847-12-01",
+      "genre": "Gothic Fiction",
+      "pages": 416,
+      "available": true
+    },
+    {
+      "id": 19,
+      "name": "Frankenstein",
+      "author": "Mary Shelley",
+      "publishedDate": "1818-01-01",
+      "genre": "Horror",
+      "pages": 280,
+      "available": false
+    },
+    {
+      "id": 20,
+      "name": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "publishedDate": "1890-01-01",
+      "genre": "Philosophical Fiction",
+      "pages": 254,
+      "available": true
+    }
+  ]
+  
