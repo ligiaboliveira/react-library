@@ -23,7 +23,7 @@ const Sidebar = ({ open, toggleDrawer }) => {
         <ListItem button onClick={toggleDrawer} component={Link} to="/">
           <ListItemText primary="Home" />
         </ListItem>
-        <ListItem button onClick={toggleDrawer} component={Link} to="/">
+        <ListItem button onClick={toggleDrawer} component={Link} to="/livros">
           <ListItemText primary="Livros" />
         </ListItem>
       </List>
